@@ -1,0 +1,36 @@
+.hero {
+
+    &__image {
+        background-image: url('/images/bg-intro-mobile.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        min-height: 17.5rem;
+        position: relative;
+
+        &::before {
+            position: absolute;
+            content: "";
+            left: 0;
+            bottom: 0;
+            height: 100%;
+            width: 100%;
+            background-image: url('/images/image-mockups.png');
+            background-size: 90%;
+            background-repeat: no-repeat;
+            background-position: center 92%;
+        }
+    }
+
+    & h1 {
+        font-weight: 300;
+    }
+
+    &__text {
+
+    }
+
+    &__cta {
+
+    }
+}
