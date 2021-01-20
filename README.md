@@ -1,3 +1,9 @@
+# EasyBank - FrontEnd Mentor
+
+A front-end challenge to build a static website for a bank using Sass and JS.
+
+
+# Provided Readme ->
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
